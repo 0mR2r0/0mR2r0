@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @0mR2r0
+- 👋 Hi, I’m @0mR2r0 a PhD student
 - 👀 I’m interested in coding PDE in Python
 - 🌱 I’m currently learning python
-- 📫 How to reach me ...
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Im here for work and ill stay for fun!
 
